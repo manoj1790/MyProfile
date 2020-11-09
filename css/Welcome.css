@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+.welcome{
+	border-top: rgb(255,153,51) solid 8px;
+	border-bottom: rgb(19,136,8) solid 8px;
+	margin: 10% 20% 0% 20%;
+	font-style: italic;
+	color: rgb(0,0,128);
+	border-radius: 5%;
+	text-align: right;
+}
+
+h1{
+	text-align: center;
+}
+
+.welcome_next{
+	text-align: right;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 30%;
+	padding-top: 3%;
+	font-size: 70%;	
+}
+
+body{
+	
+}
+/*
+
+	border-top: red solid 8px;
+	border-bottom: rgb(68,114,196) solid 8px;
+
+
+
+*/

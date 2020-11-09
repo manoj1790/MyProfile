@@ -1,0 +1,37 @@
+
+
+
+
+#edu_content dt, #edu_tecstack dt{
+	font-style: italic;
+	font-weight: bold; 
+	padding: 2% 0% 2% 0%;
+	text-decoration: underline;
+}
+
+#edu_tecstack h3{
+	font-style: italic;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.edu_tec_li_start{
+	
+}
+
+
+/*
+.edu_tec_li_start{
+	float: left;
+	padding: none;
+	
+}
+
+.edu_tec_li_end{
+	clear: both;
+	padding: none;
+}
+*/
+
+
+	

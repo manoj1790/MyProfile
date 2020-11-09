@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+
+html{
+	padding: 2%;
+	background-color: rgb(200,160,70);
+}
+
+body {
+    border-radius: 2%;
+    padding: 5%;
+    background-color: rgb(230,230,230);
+}
+
+div{
+    /*	color: rgb(68,114,196);
+*/  color: black;
+    font-size: 100%;
+    padding: 0%;
+    height: auto;
+}
+
+.breadcrump{
+	text-align: left;
+	font-size: 93%;
+	font-style: italic;
+	padding-bottom: 1%;
+}
+
+a{
+	font-style: italic;
+}
+
+.page_heading{
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+	color: rgb(178, 34, 52);
+	font-size: 130%;
+	padding-bottom: 2%;
+}
+
+table > tr,td{
+	font-size: 100%;
+	font-style: italic;
+}
+
+sup {
+    font-size: 50%;
+}
+
+/*
+
+html - background-color: rgb(200,160,70);
+
+
+*/
+

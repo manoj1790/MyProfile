@@ -1,0 +1,40 @@
+
+
+#pro_table_client{
+	font-size: 100%;
+}
+
+#pro_client_desc, #pro_project_desc{
+	font-size: 87%;
+	margin-top: 3%;
+}
+
+.pro_pjt_tbl_right{
+	float: right;
+	font-size: 105%;
+}
+
+.pro_pjt_tbl_left{
+	float: left;
+	font-size: 110%;
+}
+
+#pro_project_desc{
+	clear: both;
+}
+
+#table_title, #colon, #table_year {
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#table_year{
+	
+}
+
+#pro_project{
+	padding: 3% 3% 0% 0%;
+}
+
+
+

@@ -1,0 +1,63 @@
+
+#dtl_tbl_1, #dtl_tbl_2, #dtl_tbl_3{
+    width: 100%;
+}
+
+#dtl_tbl_1 #dtl_tbl_title, #dtl_tbl_2 #dtl_tbl_title, #dtl_tbl_3 #dtl_tbl_title {
+    width: 19%;
+    font-size: 120%;
+    font-weight: bold;
+    text-align: left;
+}
+
+#dtl_tbl_1 #colon, #dtl_tbl_2 #colon, #dtl_tbl_3 #colon {
+    width: 1%;
+    font-size: 110%;
+}
+
+#dtl_tbl_1 #dtl_tbl_vlu, #dtl_tbl_2 #dtl_tbl_vlu, #dtl_tbl_3 #dtl_tbl_vlu {
+    width: 80%;
+    text-align: justify;
+}
+
+
+/*
+#dtl_tbl_1 #dtl_tbl_title, #dtl_tbl_1 #colon{
+    
+    
+    
+}
+
+#dtl_tbl_1 #dtl_tbl_vlu{
+    
+    
+}
+*/
+#dtl_tbl_2 #dtl_tbl_title, #dtl_tbl_2 #colon, #dtl_tbl_3 #dtl_tbl_title, #dtl_tbl_3 #colon {
+    font-size: 100%;
+}
+
+#dtl_tbl_2 #dtl_tbl_vlu, #dtl_tbl_3 #dtl_tbl_vlu {
+    font-size: 90%;
+}
+
+
+
+/*  Testing area
+
+    #dtl_tbl_1 #dtl_tbl_title, #dtl_tbl_2 #dtl_tbl_title, #dtl_tbl_3 #dtl_tbl_title {
+        background-color: red;
+    }
+
+    #dtl_tbl_1 #colon, #dtl_tbl_2 #colon, #dtl_tbl_3 #colon {
+        background-color: green;
+    }
+
+    #dtl_tbl_1 #dtl_tbl_vlu, #dtl_tbl_2 #dtl_tbl_vlu, #dtl_tbl_3 #dtl_tbl_vlu {
+        background-color: yellow;
+    }
+
+
+
+ */
+

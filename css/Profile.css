@@ -1,0 +1,55 @@
+@charset "ISO-8859-1";
+
+.name, .contact{
+	text-align: center;
+	color: red;
+	width: 80%;
+	margin-left: 10%;
+	padding-up: 10%;
+	font-size: 200%;
+}
+
+.name{
+	border-bottom: red solid 3px;
+	padding-bottom: none;
+	cell-spacing: none;
+	border-radius: 3%;
+}
+
+.contact{
+	font-style: italic;
+}
+
+
+.pflcontent{
+	text-align: left;
+	line-height: normal;
+}
+
+.pflcontent img{
+	float: right;
+	height: 20%;
+	width: 20%;
+	border-radius: 3%;
+}
+
+.pfllinks{
+	clear: right;
+	padding: 3%;
+}
+
+/*
+.pro_pjt_tbl_right{
+	float: right;
+}
+
+.pro_pjt_tbl_left{
+	float: left;
+}
+
+#pro_project_desc{
+	clear: both;
+}
+
+*/
+

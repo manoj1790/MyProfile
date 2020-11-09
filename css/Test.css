@@ -1,0 +1,18 @@
+/* START - TEST ELEMENTS FORMATTING   */
+
+
+div, *{
+	border: red 1px dotted;
+}
+
+html{
+	border: black 1px dashed;
+	
+}
+
+body{
+	border: blue 1px dotted;
+}
+
+
+/* END - TEST ELEMENTS FORMATTING */
